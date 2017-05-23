@@ -1,0 +1,10 @@
+#nav{
+  background: none;
+}
+.nav-item:hover
+{
+  background-color:blue;
+}
+.nav-item:hover a{
+  color:white!important;
+}
